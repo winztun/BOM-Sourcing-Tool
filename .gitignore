@@ -1,0 +1,4 @@
+.venv/
+.env
+bom.db
+__pycache__/
